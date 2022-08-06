@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name "e-radionica.com footprinti")(type "KiCad")(uri "${TAVU_KICAD_LIB}/e-radionica.com footprinti.pretty")(options "")(descr ""))
+  (lib (name "Soldered Graphics")(type "KiCad")(uri "${TAVU_KICAD_LIB}/Soldered Graphics.pretty")(options "")(descr ""))
+)
