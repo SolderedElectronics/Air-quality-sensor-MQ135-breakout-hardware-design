@@ -1,0 +1,5 @@
+SKU: 333111
+Full product name: Air quality sensor MQ135 breakout
+Country of origin: Croatia
+HS tariff code: 90318000
+EAN/UPC barcode: 
